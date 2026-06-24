@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Developer Portfolio",
+  "description": "A highly polished, interactive developer portfolio website featuring custom 3D animations, custom cursor, smooth transitions, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
